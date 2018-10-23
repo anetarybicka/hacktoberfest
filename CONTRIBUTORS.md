@@ -1,3 +1,8 @@
+#### Name: [ANETA RYBICKA](https://github.com/anetarybicka)
+- Place: Warsaw, Poland
+- Bio: Data scientist. Music producer.
+- GitHub: [anetarybicka](https://github.com/anetarybicka)
+ 
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
